@@ -1,0 +1,31 @@
+#demo {
+    font-family: 'BioRhyme', serif;
+    font-size: 35px;
+    display: flex;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    top: 100px;
+    bottom: 100px;
+  }
+  
+  body {
+    background-image: url("https://images.unsplash.com/photo-1493839523149-2864fca44919?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzMzQ3MzA0OQ&ixlib=rb-1.2.1&q=85");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  h1 {
+    color: white;
+    font-family: 'BioRhyme', serif;
+    display: flex;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    top: 100px;
+    bottom: 100px;
+  }
